@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: vtv.pruebaluis
+Version: 0.1
+Summary: descripcion corta
+Home-page: https://github.com/lefway/vtv.pruebaluis
+Author: luis eduardo florez bautista
+Author-email: lflorez@vtv.gob.ve
+License: GPL
+Description: Introduction
+        ============
+        
+        descripcion larga
+        
+        This product may contain traces of nuts.
+        
+        Changelog
+        =========
+        
+        0.1dev (unreleased)
+        -------------------
+        
+        - Initial release
+        
+Keywords: plone4
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
